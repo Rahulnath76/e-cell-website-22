@@ -310,7 +310,7 @@ const Collaboration = () => {
               }}
             >
               <img
-                className={`${loaded ? "loaded" : "loading"} ru-collab`}
+                className={`${loaded ? "loaded" : "loading"} ru-collab brightness`}
                 onLoad={() => setIsLoaded(true)}
                 src=""
                 data-src="https://res.cloudinary.com/dp92qug2f/image/upload/v1676989080/collaboration-ecell/engineer_hubRe_ggety2.png"

@@ -492,3 +492,7 @@
     height: 170vh;
   }
 }
+
+.brightness{
+  filter:brightness(0.3)
+}
